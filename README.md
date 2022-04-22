@@ -13,3 +13,20 @@
 [![Bulid CI - windows](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Windows.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Windows.yml)
 
 [![Git Inspector](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Git%20Inspecter.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Git%20Inspecter.yml)
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Abstract`       | About Project
+`1_Requirements`   | Documents containing requirements 
+`2_Design`         | Documents specifying design details of circuit
+`3_Implementation` | All required codes and documentation
+`4_TestCases`      | low and High level Requirements
+`5_Report`         | Report all the details about project
+`6_Output`         | Documents with simulation Images
+
+## Learning Platforms
+* Youtube
+* future skills
+* geeks for geeks
