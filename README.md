@@ -11,3 +11,5 @@
 [![Build_CI - Linux](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Linux.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Windows.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Windows.yml)
+
+[![Git Inspector](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Git%20Inspecter.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M2_LED_Matrix/actions/workflows/Git%20Inspecter.yml)
